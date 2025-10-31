@@ -1,1 +1,1 @@
-# DemoSC
+# SC
